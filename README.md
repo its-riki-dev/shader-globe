@@ -2,7 +2,7 @@
 
 A dynamic shader-driven 3D Earth experience built with **Three.js**, **GLSL**, and **TailwindCSS**. Features a high-detail point-based globe with interactive UV distortion, smooth OrbitControls, and multi-texture blending. Includes a wireframe overlay, reactive lighting, and a star-filled background—fully optimized for performance and responsiveness across devices.
 
-[![HomeSS](public/heropage.png)](https://cyberpunk-landing-page-chi.vercel.app/)
+[![HomeSS](public/heropage.png)](https://shader-globe.vercel.app/)
 
 ---
 
